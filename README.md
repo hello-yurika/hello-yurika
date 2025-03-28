@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/hello-yurika/hello-yurika/main/imagens/yurika-gif.gif" alt="Yurika viajando no espaço" width="200">
+  <img src="https://raw.githubusercontent.com/hello-yurika/hello-yurika/main/yurika-gif.gif" alt="Yurika viajando no espaço" width="200">
 </p>
 
 <h1 align="center">🌙✨ Olá, eu sou a Yurika ✨🌙</h1>
